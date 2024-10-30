@@ -1,1 +1,3 @@
-# demo-hopfield-rbm-networks
+This repository is a compagnon to the article [Elements on J. Hopfield Networks and G. Hinton’s Boltzmann Machines](https://hal.science/hal-04758730) (une version française est disponible [ici](https://hal.science/hal-04758703)). The notebooks allow one to reproduce the figures of the article and to play with simple implementations of Hopfield Networks as well as Restricted Boltzmann Machines. 
+
+I have been inspired by the Hopfield code developped by [Felix Andreas](https://github.com/felix-andreas/hopfieldnetwork) and thecode developped by [Gabriel Bianconi](https://github.com/GabrielBianconi/pytorch-rbm) for the RBM.
